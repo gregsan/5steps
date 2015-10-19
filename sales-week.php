@@ -354,30 +354,30 @@
 					<div class="panel panel-default text-center">
 
 						<div class="panel-body">
-							<h3 class="panel-title price">1000 <span class="price-cents">грн</span></h3>
+							<h3 class="panel-title price">6000 <span class="price-cents">грн</span></h3>
 						</div>
 					</div>
-					<center><h3 class="section-subheading text-muted">Всем желающим</h3></center>
+					<h3 class="section-subheading text-muted text-center">Всем желающим</h3>
 				</div>
 				<!-- Pricing Plan - 2 -->
 				<div class="col-md-4">
 					<div class="panel panel-default text-center">
 
 						<div class="panel-body">
-							<h3 class="panel-title price">800 <span class="price-cents">грн</span></h3>
+							<h3 class="panel-title price">5000 <span class="price-cents">грн</span></h3>
 						</div>
 					</div>
-					<center><h3 class="section-subheading text-muted">При оплате участия двух и более участников</h3></center>
+					<h3 class="section-subheading text-muted text-center">Для посетивших, хотя бы один семинар Зорина</h3>
 				</div>
 				<!-- Pricing Plan - 3 -->
 				<div class="col-md-4">
 					<div class="panel panel-default text-center">
 
 						<div class="panel-body">
-							<h3 class="panel-title price">650 <span class="price-cents">грн</span></h3>
+							<h3 class="panel-title price">4000 <span class="price-cents">грн</span></h3>
 						</div>
 					</div>
-					<center><h3 class="section-subheading text-muted">Для участников "Клуба Автомобильных Директоров"</h3></center>
+					<h3 class="section-subheading text-muted text-center">При оплате участия более двух работников одной компании</h3>
 				</div>
                 <div class="col-lg-12  text-center">
 					<a href="#contact" class="page-scroll btn btn-xl">Заявка на участие</a>

@@ -36,6 +36,11 @@
 		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 	<![endif]-->
 
+	
+
+	
+	
+	
 </head>
 
 <body id="page-top" class="index">
@@ -211,13 +216,7 @@
 					<div class="team-member">
 						<img src="img/team/1.jpg" class="img-responsive img-circle" alt="">
 						<h4>Киев</h4>
-							<p class="text-muted">
-								Семинар: <a href="constructor.php">Рекламный конструктор</a><br>
-								Дата: <b>17 октября</b><br/>
-								Время: <b>10:00 - 18:00</b><br>
-								Место: <b>Nissan Авто Альянс, ул. Корабельная 4a</b><br>
-								<hr>
-							</p>
+
 							<p class="text-muted">
 								Семинар: <a href="sales-week.php">Sales Week</a><br>
 								Дата: <b>16 - 20 ноября (включительно)</b><br/>
@@ -584,23 +583,24 @@
 		</div>
 	</div>
 
-	<!-- jQuery -->
-	<script src="js/jquery.js"></script>
 
-	<!-- Bootstrap Core JavaScript -->
-	<script src="js/bootstrap.min.js"></script>
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
 
-	<!-- Plugin JavaScript -->
-	<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-	<script src="js/classie.js"></script>
-	<script src="js/cbpAnimatedHeader.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
 
-	<!-- Contact Form JavaScript -->
-	<script src="js/jqBootstrapValidation.js"></script>
-	<script src="js/contact_me.js"></script>
+    <!-- Plugin JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
 
-	<!-- Custom Theme JavaScript -->
-	<script src="js/agency.js"></script>
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/agency.js"></script>
 	
 	
 	
@@ -618,9 +618,8 @@
 	$( "button[data-select2-open]" ).click( function() {
 		$( "#" + $( this ).data( "select2-open" ) ).select2( "open" );
 	});
-</script>
-	
-	
+</script>	
+
 	
 
 </body>
