@@ -335,9 +335,10 @@
 								<div class="form-group">				
 									<select class="form-control input-lg select" id="choose">
 											<option value="5 шагов продаж">5 шагов продаж</option>
-											<option selected value="Рекламный конструктор">Рекламный конструктор</option>
+											<option value="Рекламный конструктор">Рекламный конструктор</option>
 											<option value="Путеводитель по Facebook">Путеводитель по Facebook</option>
 											<option value="Формула богатства">Формула богатства</option>
+											<option selected value="Sales Week">Sales Week: Недельный интенсив по продажам</option>
 									</select>
 									<p class="help-block text-danger"></p>
 								</div>	
